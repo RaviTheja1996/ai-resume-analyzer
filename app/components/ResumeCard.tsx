@@ -26,4 +26,4 @@ const ResumeCard = ({ resume: { id, companyName, jobTitle, feedback, imagePath }
         </Link>
     )
 }
-export default ResumeCard
+export default ResumeCard;
